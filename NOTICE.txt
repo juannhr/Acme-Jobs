@@ -26,3 +26,6 @@ The following tools and components are required:
 	- Lombok 1.18.8
 
 
+The contributors of this project:
+
+	juannhr (juan.hernandez477@alu.uhu.es)
